@@ -1,0 +1,141 @@
+{
+  "object_kind": "merge_request",
+  "event_type": "merge_request",
+  "user": {
+    "id": 2740,
+    "name": "robot",
+    "username": "robot",
+    "avatar_url": "https://gitlab.test.com/uploads/-/system/user/avatar/2740/avatar.png",
+    "email": "[REDACTED]"
+  },
+  "project": {
+    "id": 8189,
+    "name": "robot-test",
+    "description": "new",
+    "web_url": "https://gitlab.test.com/iot/experimental/robot-test",
+    "avatar_url": null,
+    "git_ssh_url": "git@gitlab.test.com:iot/experimental/robot-test.git",
+    "git_http_url": "https://gitlab.test.com/iot/experimental/robot-test.git",
+    "namespace": "试验场",
+    "visibility_level": 0,
+    "path_with_namespace": "iot/experimental/robot-test",
+    "default_branch": "master",
+    "ci_config_path": null,
+    "homepage": "https://gitlab.test.com/iot/experimental/robot-test",
+    "url": "git@gitlab.test.com:iot/experimental/robot-test.git",
+    "ssh_url": "git@gitlab.test.com:iot/experimental/robot-test.git",
+    "http_url": "https://gitlab.test.com/iot/experimental/robot-test.git"
+  },
+  "object_attributes": {
+    "assignee_id": 2740,
+    "author_id": 2740,
+    "created_at": "2023-05-11 16:58:03 +0800",
+    "description": "",
+    "head_pipeline_id": 364790,
+    "id": 59716,
+    "iid": 66,
+    "last_edited_at": "2023-07-04 19:02:17 +0800",
+    "last_edited_by_id": 2740,
+    "merge_commit_sha": null,
+    "merge_error": null,
+    "merge_params": {
+      "force_remove_source_branch": "1"
+    },
+    "merge_status": "cannot_be_merged",
+    "merge_user_id": null,
+    "merge_when_pipeline_succeeds": false,
+    "milestone_id": null,
+    "source_branch": "test-peng-mr3",
+    "source_project_id": 8189,
+    "state_id": 1,
+    "target_branch": "test-mr",
+    "target_project_id": 8189,
+    "time_estimate": 0,
+    "title": "Update 16.py",
+    "updated_at": "2023-08-30 19:25:37 +0800",
+    "updated_by_id": 2740,
+    "url": "https://gitlab.test.com/iot/experimental/robot-test/-/merge_requests/66",
+    "source": {
+      "id": 8189,
+      "name": "robot-test",
+      "description": "new",
+      "web_url": "https://gitlab.test.com/iot/experimental/robot-test",
+      "avatar_url": null,
+      "git_ssh_url": "git@gitlab.test.com:iot/experimental/robot-test.git",
+      "git_http_url": "https://gitlab.test.com/iot/experimental/robot-test.git",
+      "namespace": "试验场",
+      "visibility_level": 0,
+      "path_with_namespace": "iot/experimental/robot-test",
+      "default_branch": "master",
+      "ci_config_path": null,
+      "homepage": "https://gitlab.test.com/iot/experimental/robot-test",
+      "url": "git@gitlab.test.com:iot/experimental/robot-test.git",
+      "ssh_url": "git@gitlab.test.com:iot/experimental/robot-test.git",
+      "http_url": "https://gitlab.test.com/iot/experimental/robot-test.git"
+    },
+    "target": {
+      "id": 8189,
+      "name": "robot-test",
+      "description": "new",
+      "web_url": "https://gitlab.test.com/iot/experimental/robot-test",
+      "avatar_url": null,
+      "git_ssh_url": "git@gitlab.test.com:iot/experimental/robot-test.git",
+      "git_http_url": "https://gitlab.test.com/iot/experimental/robot-test.git",
+      "namespace": "试验场",
+      "visibility_level": 0,
+      "path_with_namespace": "iot/experimental/robot-test",
+      "default_branch": "master",
+      "ci_config_path": null,
+      "homepage": "https://gitlab.test.com/iot/experimental/robot-test",
+      "url": "git@gitlab.test.com:iot/experimental/robot-test.git",
+      "ssh_url": "git@gitlab.test.com:iot/experimental/robot-test.git",
+      "http_url": "https://gitlab.test.com/iot/experimental/robot-test.git"
+    },
+    "last_commit": {
+      "id": "4b767cc7e2909bdc7285446e6d178c4a8eeba53a",
+      "message": "Update 23",
+      "title": "Update 23",
+      "timestamp": "2023-08-25T15:33:08+08:00",
+      "url": "https://gitlab.test.com/iot/experimental/robot-test/-/commit/4b767cc7e2909bdc7285446e6d178c4a8eeba53a",
+      "author": {
+        "name": "robot",
+        "email": "robot@test.com"
+      }
+    },
+    "work_in_progress": false,
+    "total_time_spent": 0,
+    "time_change": 0,
+    "human_total_time_spent": null,
+    "human_time_change": null,
+    "human_time_estimate": null,
+    "assignee_ids": [
+      2740
+    ],
+    "labels": [
+
+    ],
+    "state": "opened",
+    "blocking_discussions_resolved": true,
+    "action": "update"
+  },
+  "labels": [
+
+  ],
+  "changes": {
+  },
+  "repository": {
+    "name": "robot-test",
+    "url": "git@gitlab.test.com:iot/experimental/robot-test.git",
+    "description": "new",
+    "homepage": "https://gitlab.test.com/iot/experimental/robot-test"
+  },
+  "assignees": [
+    {
+      "id": 2740,
+      "name": "robot",
+      "username": "robot",
+      "avatar_url": "https://gitlab.test.com/uploads/-/system/user/avatar/2740/avatar.png",
+      "email": "[REDACTED]"
+    }
+  ]
+}

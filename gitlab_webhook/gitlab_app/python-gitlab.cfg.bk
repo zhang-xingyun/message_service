@@ -1,0 +1,9 @@
+[global]
+default = trigger
+ssl_verify = true
+timeout = 120
+
+[trigger]
+url =
+private_token =
+api_version = 4
